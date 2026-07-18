@@ -25,7 +25,6 @@ Organization
 
 
 
-<pre>
 
 ## Rules
 
@@ -33,3 +32,4 @@ Organization
 - Organization services may be shared across applications.
 - Application resources are isolated by default.
 - No Application can exist without an Organization.
+<pre>
