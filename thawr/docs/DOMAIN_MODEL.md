@@ -1,4 +1,5 @@
 # Thawr Domain Model
+<pre>
 
 Organization
 │
@@ -24,6 +25,7 @@ Organization
 
 
 
+<pre>
 
 ## Rules
 
